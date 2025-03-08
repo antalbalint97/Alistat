@@ -1,6 +1,6 @@
 # Recipe Project
 # Overview
-The Recipe Project is a data-driven application that scrapes, cleans, analyzes, and models recipe data to gain insights about ingredients, nutritional values, and costs. The project is structured to facilitate data collection, database management, and machine learning applications.
+The Recipe Project is a data-driven project that scrapes, cleans, analyzes recipe data to gain insights about ingredients, nutritional values, and costs. The project is structured to facilitate data collection, database management, and machine learning applications.
 
 # Project Structure
 ```recipe_project/
