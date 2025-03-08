@@ -21,9 +21,9 @@ The Recipe Project is a data-driven application that scrapes, cleans, analyzes, 
 ```
 # Features
 
-Web Scraping: Extracts recipe data from websites.
-Data Cleaning: Removes duplicates, handles missing values.
-SQL Database Management: Stores recipes in a structured format.
-Data Analysis: Uses SQL and Pandas for insights.
-Machine Learning Models: Predicts recipe characteristics.
-Jupyter Notebooks: Exploratory data analysis.
+-Web Scraping: Extracts recipe data from websites.
+-Data Cleaning: Removes duplicates, handles missing values.
+-SQL Database Management: Stores recipes in a structured format.
+-Data Analysis: Uses SQL and Pandas for insights.
+-Machine Learning Models: Predicts recipe characteristics.
+-Jupyter Notebooks: Exploratory data analysis.
