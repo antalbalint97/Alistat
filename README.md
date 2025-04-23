@@ -5,15 +5,12 @@ Alistat is a data-driven project that analyzes Hungarian gastroculture using rec
 # Project Structure
 ```recipe_project/
 │── data/               # Stores raw & cleaned CSV files
-│── sql/                # SQL scripts to create & populate database
 │── src/
 │   ├── __init__.py     # init file
 │   ├── main.py         # Main
 │   ├── scraper.py      # Web scraping logic
 │   ├── data_cleaner.py # Cleaning functions
-│   ├── analysis.py     # SQL & Pandas analysis
 │── notebooks/          # Jupyter notebooks for exploration
-│── docker/             # Docker setup files
 │── requirements.txt    # Python dependencies
 │── README.md           # Project documentation
 ```
