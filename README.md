@@ -1,6 +1,6 @@
 # Alistat Project
 # Overview
-The Recipe Project is a data-driven project that scrapes, cleans, analyzes recipe data to gain insights about ingredients, nutritional values, and costs. The project is structured to facilitate data collection, database management, and machine learning applications.
+Alistat is a data-driven project that analyzes Hungarian gastroculture using large-scale recipe and ingredient data scraped from nosalty.hu. The project combines over 70,000 recipes and 1,500 unique ingredients with detailed nutritional information to explore trends, build a recipe cost estimation model using daily price data from the Hungarian Competition Authority, and eventually develop a lightweight interactive dashboard with Streamlit. Future goals include implementing a recommendation system and experimenting with custom health and cost metrics.
 
 # Project Structure
 ```recipe_project/
@@ -11,19 +11,9 @@ The Recipe Project is a data-driven project that scrapes, cleans, analyzes recip
 │   ├── main.py         # Main
 │   ├── scraper.py      # Web scraping logic
 │   ├── data_cleaner.py # Cleaning functions
-│   ├── db_manager.py   # Handles SQL database connection
 │   ├── analysis.py     # SQL & Pandas analysis
-│   ├── model.py        # Machine learning models
 │── notebooks/          # Jupyter notebooks for exploration
 │── docker/             # Docker setup files
 │── requirements.txt    # Python dependencies
 │── README.md           # Project documentation
 ```
-# Features
-
-- Web Scraping: Extracts recipe data from nosalty.hu
-- Data Cleaning: Removes duplicates, handles missing values, joining datasets.
-- SQL Database Management: Stores recipes in a structured format.
-- Data Analysis: Use SQL and Pandas for insights.
-- Machine Learning Models: Predict recipe costs, segment recipes.
-- Jupyter Notebooks: Exploratory data analysis and prototyping.
