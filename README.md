@@ -1,4 +1,4 @@
-# Recipe Project
+# Alistat Project
 # Overview
 The Recipe Project is a data-driven project that scrapes, cleans, analyzes recipe data to gain insights about ingredients, nutritional values, and costs. The project is structured to facilitate data collection, database management, and machine learning applications.
 
