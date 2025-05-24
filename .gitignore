@@ -1,42 +1,22 @@
-# Ignore Python cache files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Ignore virtual environments
 venv/
 env/
-
-# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
-
-# Ignore log files
 *.log
-
-# Ignore database files
 *.sqlite
 *.db
-
-# Ignore environment variables (sensitive info)
 .env
-
-# Ignore compiled code
 *.so
 *.dll
-
-# Ignore temporary files
 *.tmp
 *.swp
 *.swo
-
-# Ignore OS-specific files
 .DS_Store
 Thumbs.db
-
-# Ignore large data files (Optional)
 data/
 outputs/
-
-# Ignore VS Code settings (Optional)
 .vscode/
+
