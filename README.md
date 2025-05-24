@@ -1,4 +1,4 @@
-# Alistat Project
+# Vitastat Project
 # Overview
 Alistat is a data-driven project that analyzes Hungarian gastroculture using recipe and ingredient data scraped from nosalty.hu. The project combines over 70,000 recipes and 1,500 unique ingredients with detailed nutritional information to explore trends, build a recipe cost estimation model using daily price data, and eventually develop a lightweight interactive dashboard with Streamlit. Future goals include implementing a recommendation system and experimenting with custom health and cost metrics.
 
